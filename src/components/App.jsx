@@ -1,4 +1,4 @@
-import { Component, useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { GlobalStyle } from 'common/GlobalStyle';
 import { ContactForm } from './ContactForm/ContactForm';
 import { ContactList } from './ContactList/ContactList';
